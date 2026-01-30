@@ -47,7 +47,7 @@ Computer Science Engineering undergraduate specializing in **Generative AI, LLM 
 ## 📫 Connect With Me
 
 - 📧 Email: barjatyasourav4210@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/souravkumar1802
 - 🧑‍💻 GitHub: https://github.com/Souraveng  
 
 ---
