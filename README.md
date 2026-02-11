@@ -16,7 +16,7 @@ Computer Science Engineering undergraduate specializing in **Generative AI, LLM 
 
 ## 🧠 Key Project
 
-### **Disha Darshak AI – Agentic Career Guidance Platform**
+### **ASCEND AI – Agentic Career Guidance Platform**
 - Built and deployed GenAI applications using **Vertex AI** and **Gemini**
 - Implemented agentic workflows with **Genkit** for multi-step reasoning
 - Developed AI-driven mock interviews using **Speech-to-Text (STT)** and **Text-to-Speech (TTS)**
